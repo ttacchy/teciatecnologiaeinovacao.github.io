@@ -1,5 +1,7 @@
-.splash-regular {
-  font-family: "Splash", cursive;
-  font-weight: 400;
-  font-style: normal;
+/*Seleciona o corpo inteiro da página*/
+body {
+  /*Define a cor do texto*/
+  color: white;
+  /*Define a cor do fundo da página*/
+  background-color: black;
 }
