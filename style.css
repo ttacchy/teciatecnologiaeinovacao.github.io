@@ -5,3 +5,10 @@ body {
   /*Define a cor do fundo da página*/
   background-color: black;
 }
+
+.caveat-<uniquifier> {
+  font-family: "Caveat", cursive;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
